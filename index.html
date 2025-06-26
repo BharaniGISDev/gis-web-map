@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>River Station Map</title>
+  <h1><center>ANNUAL DATA FOR NATIONAL WATER MONITORING PROGRAMME-JANUARY 2023 TO DECEMBER 2023</h1></center>
+  <meta charset="utf-8" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+<div class="controls">
+  <label for="riverSelect">Select River:</label>
+  <select id="riverSelect">
+    <option value="All">All</option>
+    <option value="Cauvery River">Cauvery River</option>
+    <option value="Bhavani River">Bhavani River</option>
+    <option value="Amaravathi River">Amaravathi River</option>
+    <option value="Vennar River">Vennar River</option>
+    <option value="Thirumanimuthar Riverr">Thirumanimuthar River</option>
+    <option value="Vasista River">Vasista River</option>
+    <option value="Tamiraparani River">Tamiraparani River</option>
+    <option value="Palar River">Palar River</option>
+    <option value="Ooty Lake">Ooty Lake</option>
+    <option value="Kodaikanal Lake">Kodaikanal Lake</option>
+    <option value="Yercaud Lake">Yercaud Lake</option>
+    <option value="Veeranam Lake">Veeranam Lake</option>
+    <option value="Poondi Lake">Poondi Lake</option>
+    <option value="Red Hills Lake">Red Hills Lake</option>
+    <option value="Porur Lake">Porur Lake</option>
+    <option value="Pulicat Lake">Pulicat Lake</option>
+  </select>
+
+  <label for="monthSelect">Select Month:</label>
+  <select id="monthSelect">
+    <option value="All">All</option>
+    <option value="Jan">January</option>
+    <option value="Feb">February</option>
+    <option value="Mar">March</option>
+    <option value="Apr">April</option>
+    <option value="May">May</option>
+    <option value="Jun">June</option>
+    <option value="Jul">July</option>
+    <option value="Aug">August</option>
+    <option value="Sep">September</option>
+    <option value="Oct">October</option>
+    <option value="Nov">November</option>
+    <option value="Dec">December</option>
+  </select>
+</div>
+
+<div id="map"></div>
+<h5>Data collected from TAMILNADU POLLUTION CONTROL BOARD website</h5>
+
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script src="geojsonData.js"></script>
+<script src="script.js"></script>
+
+</body>
+</html>
