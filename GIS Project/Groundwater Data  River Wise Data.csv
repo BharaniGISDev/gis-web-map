@@ -1,0 +1,625 @@
+River Name,Name of Stations,Latitude,Longitude,Month,pH,TDS
+Cauvery River,Musiri Ferigate,10.95488,78.44395,Jan,7.5,282
+Cauvery River,Musiri Ferigate,10.95488,78.44395,Feb,7.12,346
+Cauvery River,Musiri Ferigate,10.95488,78.44395,Mar,7.84,398
+Cauvery River,Musiri Ferigate,10.95488,78.44395,Apr,8.4,404
+Cauvery River,Musiri Ferigate,10.95488,78.44395,May,7.56,496
+Cauvery River,Musiri Ferigate,10.95488,78.44395,Jun,7.88,338
+Cauvery River,Musiri Ferigate,10.95488,78.44395,Jul,7.5,354
+Cauvery River,Musiri Ferigate,10.95488,78.44395,Aug,7.71,380
+Cauvery River,Musiri Ferigate,10.95488,78.44395,Sep,7.86,308
+Cauvery River,Musiri Ferigate,10.95488,78.44395,Oct,8.32,386
+Cauvery River,Musiri Ferigate,10.95488,78.44395,Nov,7.13,402
+Cauvery River,Musiri Ferigate,10.95488,78.44395,Dec,7.58,682
+Cauvery River,Musiri Ferigate,10.95488,78.44395,Avg,7.7,398
+Bhavani River,Pathirakaliamman Koil,13.64,80.44,Jan,7.07,112
+Bhavani River,Pathirakaliamman Koil,13.64,80.44,Feb,7.6,176
+Bhavani River,Pathirakaliamman Koil,13.64,80.44,Mar,7.78,68
+Bhavani River,Pathirakaliamman Koil,13.64,80.44,Apr,7.96,108
+Bhavani River,Pathirakaliamman Koil,13.64,80.44,May,7.12,140
+Bhavani River,Pathirakaliamman Koil,13.64,80.44,Jun,7.25,80
+Bhavani River,Pathirakaliamman Koil,13.64,80.44,Jul,7.23,60
+Bhavani River,Pathirakaliamman Koil,13.64,80.44,Aug,7.87,256
+Bhavani River,Pathirakaliamman Koil,13.64,80.44,Sep,7.16,86
+Bhavani River,Pathirakaliamman Koil,13.64,80.44,Oct,6.92,74
+Bhavani River,Pathirakaliamman Koil,13.64,80.44,Nov,7.66,210
+Bhavani River,Pathirakaliamman Koil,13.64,80.44,Dec,7.32,230
+Bhavani River,Pathirakaliamman Koil,13.64,80.44,Avg,7.4,133.3
+Bhavani River,Sirumugai,11.34995,77.01143,Jan,8.4,128
+Bhavani River,Sirumugai,11.34995,77.01143,Feb,7.08,180
+Bhavani River,Sirumugai,11.34995,77.01143,Mar,7.53,120
+Bhavani River,Sirumugai,11.34995,77.01143,Apr,7.37,108
+Bhavani River,Sirumugai,11.34995,77.01143,May,7.9,172
+Bhavani River,Sirumugai,11.34995,77.01143,Jun,8.15,124
+Bhavani River,Sirumugai,11.34995,77.01143,Jul,7.13,56
+Bhavani River,Sirumugai,11.34995,77.01143,Aug,7.87,116
+Bhavani River,Sirumugai,11.34995,77.01143,Sep,7.4,116
+Bhavani River,Sirumugai,11.34995,77.01143,Oct,6.97,102
+Bhavani River,Sirumugai,11.34995,77.01143,Nov,7.93,256
+Bhavani River,Sirumugai,11.34995,77.01143,Dec,7.69,220
+Bhavani River,Sirumugai,11.34995,77.01143,Avg,7.6,141.5
+Bhavani River,Bhavani Sagar,11.48529,77.1346,Jan,7.46,136
+Bhavani River,Bhavani Sagar,11.48529,77.1346,Feb,No Flow,No Flow
+Bhavani River,Bhavani Sagar,11.48529,77.1346,Mar,7.44,148
+Bhavani River,Bhavani Sagar,11.48529,77.1346,Apr,7.43,132
+Bhavani River,Bhavani Sagar,11.48529,77.1346,May,8.3,124
+Bhavani River,Bhavani Sagar,11.48529,77.1346,Jun,7.75,132
+Bhavani River,Bhavani Sagar,11.48529,77.1346,Jul,7.5,88
+Bhavani River,Bhavani Sagar,11.48529,77.1346,Aug,8.62,320
+Bhavani River,Bhavani Sagar,11.48529,77.1346,Sep,7.55,176
+Bhavani River,Bhavani Sagar,11.48529,77.1346,Oct,7.6,140
+Bhavani River,Bhavani Sagar,11.48529,77.1346,Nov,7.9,224
+Bhavani River,Bhavani Sagar,11.48529,77.1346,Dec,7.42,312
+Bhavani River,Bhavani Sagar,11.48529,77.1346,Avg,7.7,175.6
+Bhavani River,Bhavani,11.45409,77.67957,Jan,8.05,400
+Bhavani River,Bhavani,11.45409,77.67957,Feb,No Flow,No Flow
+Bhavani River,Bhavani,11.45409,77.67957,Mar,7.78,264
+Bhavani River,Bhavani,11.45409,77.67957,Apr,8.21,352
+Bhavani River,Bhavani,11.45409,77.67957,May,8.46,364
+Bhavani River,Bhavani,11.45409,77.67957,Jun,7.94,276
+Bhavani River,Bhavani,11.45409,77.67957,Jul,7.2,128
+Bhavani River,Bhavani,11.45409,77.67957,Aug,7.72,296
+Bhavani River,Bhavani,11.45409,77.67957,Sep,7.69,248
+Bhavani River,Bhavani,11.45409,77.67957,Oct,7.88,224
+Bhavani River,Bhavani,11.45409,77.67957,Nov,8.04,316
+Bhavani River,Bhavani,11.45409,77.67957,Dec,8.33,694
+Bhavani River,Bhavani,11.45409,77.67957,Avg,7.9,323.8
+Cauvery River,R.N pudur,11.44566,77.66763,Jan,8.09,432
+Cauvery River,R.N pudur,11.44566,77.66763,Feb,8.2,344
+Cauvery River,R.N pudur,11.44566,77.66763,Mar,8.1,272
+Cauvery River,R.N pudur,11.44566,77.66763,Apr,7.29,264
+Cauvery River,R.N pudur,11.44566,77.66763,May,8.57,356
+Cauvery River,R.N pudur,11.44566,77.66763,Jun,8.73,260
+Cauvery River,R.N pudur,11.44566,77.66763,Jul,7.6,132
+Cauvery River,R.N pudur,11.44566,77.66763,Aug,8.21,312
+Cauvery River,R.N pudur,11.44566,77.66763,Sep,7.92,240
+Cauvery River,R.N pudur,11.44566,77.66763,Oct,7.88,232
+Cauvery River,R.N pudur,11.44566,77.66763,Nov,8.08,340
+Cauvery River,R.N pudur,11.44566,77.66763,Dec,8.25,648
+Cauvery River,R.N pudur,11.44566,77.66763,Avg,8.1,319
+Cauvery River,Erode Near Chirapalayam(Vairapalayam),11.3358,77.75376,Jan,7.96,432
+Cauvery River,Erode Near Chirapalayam(Vairapalayam),11.3358,77.75376,Feb,8.34,388
+Cauvery River,Erode Near Chirapalayam(Vairapalayam),11.3358,77.75376,Mar,7.75,452
+Cauvery River,Erode Near Chirapalayam(Vairapalayam),11.3358,77.75376,Apr,8.16,264
+Cauvery River,Erode Near Chirapalayam(Vairapalayam),11.3358,77.75376,May,8.04,356
+Cauvery River,Erode Near Chirapalayam(Vairapalayam),11.3358,77.75376,Jun,8.27,344
+Cauvery River,Erode Near Chirapalayam(Vairapalayam),11.3358,77.75376,Jul,7.81,444
+Cauvery River,Erode Near Chirapalayam(Vairapalayam),11.3358,77.75376,Aug,7.12,348
+Cauvery River,Erode Near Chirapalayam(Vairapalayam),11.3358,77.75376,Sep,7.17,252
+Cauvery River,Erode Near Chirapalayam(Vairapalayam),11.3358,77.75376,Oct,7.42,356
+Cauvery River,Erode Near Chirapalayam(Vairapalayam),11.3358,77.75376,Nov,7.92,516
+Cauvery River,Erode Near Chirapalayam(Vairapalayam),11.3358,77.75376,Dec,7.82,776
+Cauvery River,Erode Near Chirapalayam(Vairapalayam),11.3358,77.75376,Avg,7.8,410.7
+Cauvery River,Velore Near Kattipalayam(P.Velur),11.18,78.01,Jan,8.27,404
+Cauvery River,Velore Near Kattipalayam(P.Velur),11.18,78.01,Feb,8.5,520
+Cauvery River,Velore Near Kattipalayam(P.Velur),11.18,78.01,Mar,8.16,512
+Cauvery River,Velore Near Kattipalayam(P.Velur),11.18,78.01,Apr,8.31,520
+Cauvery River,Velore Near Kattipalayam(P.Velur),11.18,78.01,May,8.14,532
+Cauvery River,Velore Near Kattipalayam(P.Velur),11.18,78.01,Jun,8.49,484
+Cauvery River,Velore Near Kattipalayam(P.Velur),11.18,78.01,Jul,7.89,364
+Cauvery River,Velore Near Kattipalayam(P.Velur),11.18,78.01,Aug,8.13,436
+Cauvery River,Velore Near Kattipalayam(P.Velur),11.18,78.01,Sep,7.91,284
+Cauvery River,Velore Near Kattipalayam(P.Velur),11.18,78.01,Oct,8,312
+Cauvery River,Velore Near Kattipalayam(P.Velur),11.18,78.01,Nov,6.9,404
+Cauvery River,Velore Near Kattipalayam(P.Velur),11.18,78.01,Dec,7.96,632
+Cauvery River,Velore Near Kattipalayam(P.Velur),11.18,78.01,Avg,8.1,450.3
+Cauvery River,Mohanur,11.06439,78.12036,Jan,8.32,328
+Cauvery River,Mohanur,11.06439,78.12036,Feb,8.61,556
+Cauvery River,Mohanur,11.06439,78.12036,Mar,8.31,528
+Cauvery River,Mohanur,11.06439,78.12036,Apr,8.27,540
+Cauvery River,Mohanur,11.06439,78.12036,May,8.18,548
+Cauvery River,Mohanur,11.06439,78.12036,Jun,8.43,548
+Cauvery River,Mohanur,11.06439,78.12036,Jul,7.85,380
+Cauvery River,Mohanur,11.06439,78.12036,Aug,8.07,440
+Cauvery River,Mohanur,11.06439,78.12036,Sep,7.6,404
+Cauvery River,Mohanur,11.06439,78.12036,Oct,7.76,448
+Cauvery River,Mohanur,11.06439,78.12036,Nov,7.94,528
+Cauvery River,Mohanur,11.06439,78.12036,Dec,8.05,1008
+Cauvery River,Mohanur,11.06439,78.12036,Avg,8.1,521.3
+Amaravathi River,Madhuthukkulam,10.54124,77.36866,Jan,7.93,164
+Amaravathi River,Madhuthukkulam,10.54124,77.36866,Feb,7.63,132
+Amaravathi River,Madhuthukkulam,10.54124,77.36866,Mar,7.64,180
+Amaravathi River,Madhuthukkulam,10.54124,77.36866,Apr,8.04,276
+Amaravathi River,Madhuthukkulam,10.54124,77.36866,May,8.07,264
+Amaravathi River,Madhuthukkulam,10.54124,77.36866,Jun,7.67,216
+Amaravathi River,Madhuthukkulam,10.54124,77.36866,Jul,8.02,244
+Amaravathi River,Madhuthukkulam,10.54124,77.36866,Aug,7.95,204
+Amaravathi River,Madhuthukkulam,10.54124,77.36866,Sep,6.97,68
+Amaravathi River,Madhuthukkulam,10.54124,77.36866,Oct,7.72,84
+Amaravathi River,Madhuthukkulam,10.54124,77.36866,Nov,7.73,188
+Amaravathi River,Madhuthukkulam,10.54124,77.36866,Dec,7.16,72
+Amaravathi River,Madhuthukkulam,10.54124,77.36866,Avg,7.7,174.3
+Cauvery River,Thirumukkudal,11.05002,78.122065,Jan,8.44,408
+Cauvery River,Thirumukkudal,11.05002,78.122065,Feb,8.35,508
+Cauvery River,Thirumukkudal,11.05002,78.122065,Mar,8.44,548
+Cauvery River,Thirumukkudal,11.05002,78.122065,Apr,7.92,612
+Cauvery River,Thirumukkudal,11.05002,78.122065,May,8.47,568
+Cauvery River,Thirumukkudal,11.05002,78.122065,Jun,7.7,864
+Cauvery River,Thirumukkudal,11.05002,78.122065,Jul,8.12,432
+Cauvery River,Thirumukkudal,11.05002,78.122065,Aug,7.72,432
+Cauvery River,Thirumukkudal,11.05002,78.122065,Sep,7.52,228
+Cauvery River,Thirumukkudal,11.05002,78.122065,Oct,8.2,268
+Cauvery River,Thirumukkudal,11.05002,78.122065,Nov,7.82,528
+Cauvery River,Thirumukkudal,11.05002,78.122065,Dec,7.94,620
+Cauvery River,Thirumukkudal,11.05002,78.122065,Avg,8.1,501.3
+Cauvery River,Tiruchirapalli U/s,10.83326,78.71822,Jan,7.46,306
+Cauvery River,Tiruchirapalli U/s,10.83326,78.71822,Feb,7.65,310
+Cauvery River,Tiruchirapalli U/s,10.83326,78.71822,Mar,8.34,526
+Cauvery River,Tiruchirapalli U/s,10.83326,78.71822,Apr,8,460
+Cauvery River,Tiruchirapalli U/s,10.83326,78.71822,May,7.61,476
+Cauvery River,Tiruchirapalli U/s,10.83326,78.71822,Jun,7.89,369
+Cauvery River,Tiruchirapalli U/s,10.83326,78.71822,Jul,7.56,338
+Cauvery River,Tiruchirapalli U/s,10.83326,78.71822,Aug,7.6,388
+Cauvery River,Tiruchirapalli U/s,10.83326,78.71822,Sep,7.48,278
+Cauvery River,Tiruchirapalli U/s,10.83326,78.71822,Oct,7.61,360
+Cauvery River,Tiruchirapalli U/s,10.83326,78.71822,Nov,7.14,564
+Cauvery River,Tiruchirapalli U/s,10.83326,78.71822,Dec,7.51,614
+Cauvery River,Tiruchirapalli U/s,10.83326,78.71822,Avg,7.7,418
+Cauvery River,Tiruchirapalli D/s,10.76681,78.066527,Jan,7.44,296
+Cauvery River,Tiruchirapalli D/s,10.76681,78.066527,Feb,7.63,388
+Cauvery River,Tiruchirapalli D/s,10.76681,78.066527,Mar,8.04,738
+Cauvery River,Tiruchirapalli D/s,10.76681,78.066527,Apr,7.34,558
+Cauvery River,Tiruchirapalli D/s,10.76681,78.066527,May,7.55,766
+Cauvery River,Tiruchirapalli D/s,10.76681,78.066527,Jun,8.01,416
+Cauvery River,Tiruchirapalli D/s,10.76681,78.066527,Jul,7.46,358
+Cauvery River,Tiruchirapalli D/s,10.76681,78.066527,Aug,7.61,396
+Cauvery River,Tiruchirapalli D/s,10.76681,78.066527,Sep,7.51,342
+Cauvery River,Tiruchirapalli D/s,10.76681,78.066527,Oct,8.52,384
+Cauvery River,Tiruchirapalli D/s,10.76681,78.066527,Nov,7.25,538
+Cauvery River,Tiruchirapalli D/s,10.76681,78.066527,Dec,7.48,688
+Cauvery River,Tiruchirapalli D/s,10.76681,78.066527,Avg,7.7,489
+Cauvery River,Grand Anaicut,10.83033,78.81177,Jan,7.47,310
+Cauvery River,Grand Anaicut,10.83033,78.81177,Feb,7.52,378
+Cauvery River,Grand Anaicut,10.83033,78.81177,Mar,7.8,698
+Cauvery River,Grand Anaicut,10.83033,78.81177,Apr,7.26,522
+Cauvery River,Grand Anaicut,10.83033,78.81177,May,7.45,576
+Cauvery River,Grand Anaicut,10.83033,78.81177,Jun,7.94,516
+Cauvery River,Grand Anaicut,10.83033,78.81177,Jul,7.81,326
+Cauvery River,Grand Anaicut,10.83033,78.81177,Aug,7.68,396
+Cauvery River,Grand Anaicut,10.83033,78.81177,Sep,7.48,340
+Cauvery River,Grand Anaicut,10.83033,78.81177,Oct,8.12,378
+Cauvery River,Grand Anaicut,10.83033,78.81177,Nov,7.53,558
+Cauvery River,Grand Anaicut,10.83033,78.81177,Dec,7.68,652
+Cauvery River,Grand Anaicut,10.83033,78.81177,Avg,7.6,470.8
+Vennar River,Karunthattankudi,11.34,79.24,Jan,7.25,336
+Vennar River,Karunthattankudi,11.34,79.24,Feb,7.56,354
+Vennar River,Karunthattankudi,11.34,79.24,Mar,No Flow,No Flow
+Vennar River,Karunthattankudi,11.34,79.24,Apr,8,586
+Vennar River,Karunthattankudi,11.34,79.24,May,No Flow,No Flow
+Vennar River,Karunthattankudi,11.34,79.24,Jun,No Flow,No Flow
+Vennar River,Karunthattankudi,11.34,79.24,Jul,No Flow,No Flow
+Vennar River,Karunthattankudi,11.34,79.24,Aug,No Flow,No Flow
+Vennar River,Karunthattankudi,11.34,79.24,Sep,No Flow,No Flow
+Vennar River,Karunthattankudi,11.34,79.24,Oct,No Flow,No Flow
+Vennar River,Karunthattankudi,11.34,79.24,Nov,7.2,506
+Vennar River,Karunthattankudi,11.34,79.24,Dec,No Flow,No Flow
+Vennar River,Karunthattankudi,11.34,79.24,Avg,7.2,445.5
+Cauvery River,Kumarapalayam,11.4235,77.68526,Jan,6.2,348
+Cauvery River,Kumarapalayam,11.4235,77.68526,Feb,6.2,440
+Cauvery River,Kumarapalayam,11.4235,77.68526,Mar,6.2,440
+Cauvery River,Kumarapalayam,11.4235,77.68526,Apr,6.2,392
+Cauvery River,Kumarapalayam,11.4235,77.68526,May,6.5,368
+Cauvery River,Kumarapalayam,11.4235,77.68526,Jun,6.2,384
+Cauvery River,Kumarapalayam,11.4235,77.68526,Jul,5.8,356
+Cauvery River,Kumarapalayam,11.4235,77.68526,Aug,6.3,388
+Cauvery River,Kumarapalayam,11.4235,77.68526,Sep,6.2,252
+Cauvery River,Kumarapalayam,11.4235,77.68526,Oct,6,268
+Cauvery River,Kumarapalayam,11.4235,77.68526,Nov,6.4,424
+Cauvery River,Kumarapalayam,11.4235,77.68526,Dec,5.9,540
+Cauvery River,Kumarapalayam,11.4235,77.68526,Avg,6.2,383.3
+Cauvery River,Urrachikottai,11.35418,77.75044,Jan,8.45,340
+Cauvery River,Urrachikottai,11.35418,77.75044,Feb,8.65,408
+Cauvery River,Urrachikottai,11.35418,77.75044,Mar,8.5,376
+Cauvery River,Urrachikottai,11.35418,77.75044,Apr,8.39,348
+Cauvery River,Urrachikottai,11.35418,77.75044,May,8.56,356
+Cauvery River,Urrachikottai,11.35418,77.75044,Jun,8.57,336
+Cauvery River,Urrachikottai,11.35418,77.75044,Jul,8.02,364
+Cauvery River,Urrachikottai,11.35418,77.75044,Aug,7.92,356
+Cauvery River,Urrachikottai,11.35418,77.75044,Sep,7.69,228
+Cauvery River,Urrachikottai,11.35418,77.75044,Oct,8.04,232
+Cauvery River,Urrachikottai,11.35418,77.75044,Nov,8.43,312
+Cauvery River,Urrachikottai,11.35418,77.75044,Dec,8.6,556
+Cauvery River,Urrachikottai,11.35418,77.75044,Avg,8.3,351
+Cauvery River,Chirampalayam,11.36158,77.74241,Jan,8.11,332
+Cauvery River,Chirampalayam,11.36158,77.74241,Feb,8.15,380
+Cauvery River,Chirampalayam,11.36158,77.74241,Mar,8.09,380
+Cauvery River,Chirampalayam,11.36158,77.74241,Apr,8.42,336
+Cauvery River,Chirampalayam,11.36158,77.74241,May,8.39,312
+Cauvery River,Chirampalayam,11.36158,77.74241,Jun,7.91,364
+Cauvery River,Chirampalayam,11.36158,77.74241,Jul,7.95,388
+Cauvery River,Chirampalayam,11.36158,77.74241,Aug,7.97,228
+Cauvery River,Chirampalayam,11.36158,77.74241,Sep,8.14,248
+Cauvery River,Chirampalayam,11.36158,77.74241,Oct,7.49,420
+Cauvery River,Chirampalayam,11.36158,77.74241,Nov,7.49,420
+Cauvery River,Chirampalayam,11.36158,77.74241,Dec,7.63,576
+Cauvery River,Chirampalayam,11.36158,77.74241,Avg,8,365.3
+Cauvery River,Pugalur,10.9745,78.18008,Jan,8.3,490
+Cauvery River,Pugalur,10.9745,78.18008,Feb,8.14,668
+Cauvery River,Pugalur,10.9745,78.18008,Mar,8.04,480
+Cauvery River,Pugalur,10.9745,78.18008,Apr,8.08,352
+Cauvery River,Pugalur,10.9745,78.18008,May,8.14,716
+Cauvery River,Pugalur,10.9745,78.18008,Jun,8.04,664
+Cauvery River,Pugalur,10.9745,78.18008,Jul,7.75,592
+Cauvery River,Pugalur,10.9745,78.18008,Aug,7.56,520
+Cauvery River,Pugalur,10.9745,78.18008,Sep,7.7,338
+Cauvery River,Pugalur,10.9745,78.18008,Oct,7.81,424
+Cauvery River,Pugalur,10.9745,78.18008,Nov,7.89,624
+Cauvery River,Pugalur,10.9745,78.18008,Dec,8.09,680
+Cauvery River,Pugalur,10.9745,78.18008,Avg,8,545.7
+Cauvery River,Pettavaithalai,10.90639,78.4897,Jan,7.48,322
+Cauvery River,Pettavaithalai,10.90639,78.4897,Feb,7.23,324
+Cauvery River,Pettavaithalai,10.90639,78.4897,Mar,8.12,516
+Cauvery River,Pettavaithalai,10.90639,78.4897,Apr,8.5,442
+Cauvery River,Pettavaithalai,10.90639,78.4897,May,7.63,498
+Cauvery River,Pettavaithalai,10.90639,78.4897,Jun,7.91,418
+Cauvery River,Pettavaithalai,10.90639,78.4897,Jul,7.46,344
+Cauvery River,Pettavaithalai,10.90639,78.4897,Aug,7.62,386
+Cauvery River,Pettavaithalai,10.90639,78.4897,Sep,7.46,290
+Cauvery River,Pettavaithalai,10.90639,78.4897,Oct,7.15,370
+Cauvery River,Pettavaithalai,10.90639,78.4897,Nov,7.25,512
+Cauvery River,Pettavaithalai,10.90639,78.4897,Dec,7.49,634
+Cauvery River,Pettavaithalai,10.90639,78.4897,Avg,7.6,421.3
+Cauvery River,Kumbakonam,10.96814,79.37825,Jan,7.43,322
+Cauvery River,Kumbakonam,10.96814,79.37825,Feb,7.52,332
+Cauvery River,Kumbakonam,10.96814,79.37825,Mar,No Flow,No Flow
+Cauvery River,Kumbakonam,10.96814,79.37825,Apr,No Flow,No Flow
+Cauvery River,Kumbakonam,10.96814,79.37825,May,No Flow,No Flow
+Cauvery River,Kumbakonam,10.96814,79.37825,Jun,No Flow,No Flow
+Cauvery River,Kumbakonam,10.96814,79.37825,Jul,No Flow,No Flow
+Cauvery River,Kumbakonam,10.96814,79.37825,Aug,No Flow,No Flow
+Cauvery River,Kumbakonam,10.96814,79.37825,Sep,No Flow,No Flow
+Cauvery River,Kumbakonam,10.96814,79.37825,Oct,No Flow,No Flow
+Cauvery River,Kumbakonam,10.96814,79.37825,Nov,7.85,330
+Cauvery River,Kumbakonam,10.96814,79.37825,Dec,No Flow,No Flow
+Cauvery River,Kumbakonam,10.96814,79.37825,Avg,76,328
+Cauvery River,Mayiladurai,11.10489,79.65187,Jan,8,364
+Cauvery River,Mayiladurai,11.10489,79.65187,Feb,7.84,412
+Cauvery River,Mayiladurai,11.10489,79.65187,Mar,No Flow,No Flow
+Cauvery River,Mayiladurai,11.10489,79.65187,Apr,No Flow,No Flow
+Cauvery River,Mayiladurai,11.10489,79.65187,May,No Flow,No Flow
+Cauvery River,Mayiladurai,11.10489,79.65187,Jun,No Flow,No Flow
+Cauvery River,Mayiladurai,11.10489,79.65187,Jul,No Flow,No Flow
+Cauvery River,Mayiladurai,11.10489,79.65187,Aug,No Flow,No Flow
+Cauvery River,Mayiladurai,11.10489,79.65187,Sep,No Flow,No Flow
+Cauvery River,Mayiladurai,11.10489,79.65187,Oct,No Flow,No Flow
+Cauvery River,Mayiladurai,11.10489,79.65187,Nov,No Flow,No Flow
+Cauvery River,Mayiladurai,11.10489,79.65187,Dec,No Flow,No Flow
+Cauvery River,Mayiladurai,11.10489,79.65187,Avg,7.9,388
+Bhavani River,Sathiyamangalam,11.50388,77.24704,Jan,7.98,156
+Bhavani River,Sathiyamangalam,11.50388,77.24704,Feb,No Flow,No Flow
+Bhavani River,Sathiyamangalam,11.50388,77.24704,Mar,7.3,144
+Bhavani River,Sathiyamangalam,11.50388,77.24704,Apr,7.97,136
+Bhavani River,Sathiyamangalam,11.50388,77.24704,May,7.93,164
+Bhavani River,Sathiyamangalam,11.50388,77.24704,Jun,7.62,140
+Bhavani River,Sathiyamangalam,11.50388,77.24704,Jul,7.53,96
+Bhavani River,Sathiyamangalam,11.50388,77.24704,Aug,8.14,220
+Bhavani River,Sathiyamangalam,11.50388,77.24704,Sep,7.53,164
+Bhavani River,Sathiyamangalam,11.50388,77.24704,Oct,7.38,128
+Bhavani River,Sathiyamangalam,11.50388,77.24704,Nov,8.13,252
+Bhavani River,Sathiyamangalam,11.50388,77.24704,Dec,7.55,302
+Bhavani River,Sathiyamangalam,11.50388,77.24704,Avg,7.7,173.1
+Bhavani River,Kalingarayan Canal(B5),11.44282,77.67605,Jan,8.21,402
+Bhavani River,Kalingarayan Canal(B5),11.44282,77.67605,Feb,8.01,332
+Bhavani River,Kalingarayan Canal(B5),11.44282,77.67605,Mar,8.01,264
+Bhavani River,Kalingarayan Canal(B5),11.44282,77.67605,Apr,7.79,272
+Bhavani River,Kalingarayan Canal(B5),11.44282,77.67605,May,8.56,368
+Bhavani River,Kalingarayan Canal(B5),11.44282,77.67605,Jun,8.36,268
+Bhavani River,Kalingarayan Canal(B5),11.44282,77.67605,Jul,7.5,136
+Bhavani River,Kalingarayan Canal(B5),11.44282,77.67605,Aug,8.03,292
+Bhavani River,Kalingarayan Canal(B5),11.44282,77.67605,Sep,7.71,248
+Bhavani River,Kalingarayan Canal(B5),11.44282,77.67605,Oct,7.91,220
+Bhavani River,Kalingarayan Canal(B5),11.44282,77.67605,Nov,8.04,352
+Bhavani River,Kalingarayan Canal(B5),11.44282,77.67605,Dec,8.12,662
+Bhavani River,Kalingarayan Canal(B5),11.44282,77.67605,Avg,8,318
+Bhavani River,Kalingarayan Canal(B5),11.43822,77.68146,Jan,7.98,416
+Bhavani River,Kalingarayan Canal(B5),11.43822,77.68146,Feb,8.22,316
+Bhavani River,Kalingarayan Canal(B5),11.43822,77.68146,Mar,8.5,284
+Bhavani River,Kalingarayan Canal(B5),11.43822,77.68146,Apr,7.79,260
+Bhavani River,Kalingarayan Canal(B5),11.43822,77.68146,May,8.76,364
+Bhavani River,Kalingarayan Canal(B5),11.43822,77.68146,Jun,8.79,248
+Bhavani River,Kalingarayan Canal(B5),11.43822,77.68146,Jul,7.6,148
+Bhavani River,Kalingarayan Canal(B5),11.43822,77.68146,Aug,8.22,316
+Bhavani River,Kalingarayan Canal(B5),11.43822,77.68146,Sep,7.98,256
+Bhavani River,Kalingarayan Canal(B5),11.43822,77.68146,Oct,7.98,228
+Bhavani River,Kalingarayan Canal(B5),11.43822,77.68146,Nov,8.22,360
+Bhavani River,Kalingarayan Canal(B5),11.43822,77.68146,Dec,8.46,638
+Bhavani River,Kalingarayan Canal(B5),11.43822,77.68146,Avg,8.2,319.5
+Thirumanimuthar River,Uthamasolapuram,11.64588,78.12034,Jan,7.83,1212
+Thirumanimuthar River,Uthamasolapuram,11.64588,78.12034,Feb,7.73,1220
+Thirumanimuthar River,Uthamasolapuram,11.64588,78.12034,Mar,7.81,1540
+Thirumanimuthar River,Uthamasolapuram,11.64588,78.12034,Apr,7.49,1320
+Thirumanimuthar River,Uthamasolapuram,11.64588,78.12034,May,No Flow,No Flow
+Thirumanimuthar River,Uthamasolapuram,11.64588,78.12034,Jun,7.36,1088
+Thirumanimuthar River,Uthamasolapuram,11.64588,78.12034,Jul,7.49,812
+Thirumanimuthar River,Uthamasolapuram,11.64588,78.12034,Aug,7.7,1212
+Thirumanimuthar River,Uthamasolapuram,11.64588,78.12034,Sep,7.23,640
+Thirumanimuthar River,Uthamasolapuram,11.64588,78.12034,Oct,7.78,1100
+Thirumanimuthar River,Uthamasolapuram,11.64588,78.12034,Nov,6.95,856
+Thirumanimuthar River,Uthamasolapuram,11.64588,78.12034,Dec,7.48,1220
+Thirumanimuthar River,Uthamasolapuram,11.64588,78.12034,Avg,7.5,1110.9
+Vasista River,Thulakanur,11.64785,78.13813,Jan,7.6,1176
+Vasista River,Thulakanur,11.64785,78.13813,Feb,7.74,1084
+Vasista River,Thulakanur,11.64785,78.13813,Mar,6.96,1364
+Vasista River,Thulakanur,11.64785,78.13813,Apr,7.81,1408
+Vasista River,Thulakanur,11.64785,78.13813,May,No Flow,No Flow
+Vasista River,Thulakanur,11.64785,78.13813,Jun,7.95,1012
+Vasista River,Thulakanur,11.64785,78.13813,Jul,7.6,1168
+Vasista River,Thulakanur,11.64785,78.13813,Aug,7.49,1128
+Vasista River,Thulakanur,11.64785,78.13813,Sep,6.92,512
+Vasista River,Thulakanur,11.64785,78.13813,Oct,7.87,196
+Vasista River,Thulakanur,11.64785,78.13813,Nov,7.28,796
+Vasista River,Thulakanur,11.64785,78.13813,Dec,7.38,1072
+Vasista River,Thulakanur,11.64785,78.13813,Avg,7.5,992.4
+Tamiraparani River,Papanasam,8.66329,77.42222,Jan,7.46,24
+Tamiraparani River,Papanasam,8.66329,77.42222,Feb,7.59,36
+Tamiraparani River,Papanasam,8.66329,77.42222,Mar,7.12,26
+Tamiraparani River,Papanasam,8.66329,77.42222,Apr,7.23,42
+Tamiraparani River,Papanasam,8.66329,77.42222,May,6.75,56
+Tamiraparani River,Papanasam,8.66329,77.42222,Jun,7.5,52
+Tamiraparani River,Papanasam,8.66329,77.42222,Jul,7.98,48
+Tamiraparani River,Papanasam,8.66329,77.42222,Aug,7.12,56
+Tamiraparani River,Papanasam,8.66329,77.42222,Sep,7.62,62
+Tamiraparani River,Papanasam,8.66329,77.42222,Oct,6.8,96
+Tamiraparani River,Papanasam,8.66329,77.42222,Nov,6.66,96
+Tamiraparani River,Papanasam,8.66329,77.42222,Dec,7.4,88
+Tamiraparani River,Papanasam,8.66329,77.42222,Avg,7.3,56.8
+Tamiraparani River,Cheranmadevi,8.70059,77.56595,Jan,7.22,48
+Tamiraparani River,Cheranmadevi,8.70059,77.56595,Feb,7.56,76
+Tamiraparani River,Cheranmadevi,8.70059,77.56595,Mar,6.91,60
+Tamiraparani River,Cheranmadevi,8.70059,77.56595,Apr,7.15,64
+Tamiraparani River,Cheranmadevi,8.70059,77.56595,May,7.3,80
+Tamiraparani River,Cheranmadevi,8.70059,77.56595,Jun,7.74,48
+Tamiraparani River,Cheranmadevi,8.70059,77.56595,Jul,7.83,70
+Tamiraparani River,Cheranmadevi,8.70059,77.56595,Aug,7.23,80
+Tamiraparani River,Cheranmadevi,8.70059,77.56595,Sep,6.63,98
+Tamiraparani River,Cheranmadevi,8.70059,77.56595,Oct,6.38,188
+Tamiraparani River,Cheranmadevi,8.70059,77.56595,Nov,6.86,146
+Tamiraparani River,Cheranmadevi,8.70059,77.56595,Dec,7.91,198
+Tamiraparani River,Cheranmadevi,8.70059,77.56595,Avg,7.2,96.3
+Tamiraparani River,Kokirakulam,8.73413,77.71676,Jan,7.15,70
+Tamiraparani River,Kokirakulam,8.73413,77.71676,Feb,7.41,98
+Tamiraparani River,Kokirakulam,8.73413,77.71676,Mar,6.78,82
+Tamiraparani River,Kokirakulam,8.73413,77.71676,Apr,7.08,110
+Tamiraparani River,Kokirakulam,8.73413,77.71676,May,7.03,158
+Tamiraparani River,Kokirakulam,8.73413,77.71676,Jun,7.52,68
+Tamiraparani River,Kokirakulam,8.73413,77.71676,Jul,7.64,96
+Tamiraparani River,Kokirakulam,8.73413,77.71676,Aug,6.94,95
+Tamiraparani River,Kokirakulam,8.73413,77.71676,Sep,6.48,80
+Tamiraparani River,Kokirakulam,8.73413,77.71676,Oct,6.66,204
+Tamiraparani River,Kokirakulam,8.73413,77.71676,Nov,6.56,164
+Tamiraparani River,Kokirakulam,8.73413,77.71676,Dec,7.97,194
+Tamiraparani River,Kokirakulam,8.73413,77.71676,Avg,7.1,118.3
+Tamiraparani River,Murapanadu,8.72161,77.8328,Jan,7.18,126
+Tamiraparani River,Murapanadu,8.72161,77.8328,Feb,7.23,138
+Tamiraparani River,Murapanadu,8.72161,77.8328,Mar,7.73,126
+Tamiraparani River,Murapanadu,8.72161,77.8328,Apr,7.31,292
+Tamiraparani River,Murapanadu,8.72161,77.8328,May,6.92,268
+Tamiraparani River,Murapanadu,8.72161,77.8328,Jun,7.23,192
+Tamiraparani River,Murapanadu,8.72161,77.8328,Jul,6.82,116
+Tamiraparani River,Murapanadu,8.72161,77.8328,Aug,6.5,80
+Tamiraparani River,Murapanadu,8.72161,77.8328,Sep,6.8,51
+Tamiraparani River,Murapanadu,8.72161,77.8328,Oct,6.88,48
+Tamiraparani River,Murapanadu,8.72161,77.8328,Nov,6.82,104
+Tamiraparani River,Murapanadu,8.72161,77.8328,Dec,6.97,188
+Tamiraparani River,Murapanadu,8.72161,77.8328,Avg,7,144.1
+Tamiraparani River,Thiruvidaimarudur,8.75861,77.4246,Jan,7.25,30
+Tamiraparani River,Thiruvidaimarudur,8.75861,77.4246,Feb,7.38,34
+Tamiraparani River,Thiruvidaimarudur,8.75861,77.4246,Mar,6.78,42
+Tamiraparani River,Thiruvidaimarudur,8.75861,77.4246,Apr,7.21,54
+Tamiraparani River,Thiruvidaimarudur,8.75861,77.4246,May,7.58,108
+Tamiraparani River,Thiruvidaimarudur,8.75861,77.4246,Jun,7.49,48
+Tamiraparani River,Thiruvidaimarudur,8.75861,77.4246,Jul,7.72,82
+Tamiraparani River,Thiruvidaimarudur,8.75861,77.4246,Aug,7.1,98
+Tamiraparani River,Thiruvidaimarudur,8.75861,77.4246,Sep,6.42,128
+Tamiraparani River,Thiruvidaimarudur,8.75861,77.4246,Oct,6.24,108
+Tamiraparani River,Thiruvidaimarudur,8.75861,77.4246,Nov,8.04,780
+Tamiraparani River,Thiruvidaimarudur,8.75861,77.4246,Dec,7.82,146
+Tamiraparani River,Thiruvidaimarudur,8.75861,77.4246,Avg,7.3,138.2
+Tamiraparani River,Ambasamudram,8.72959,77.46729,Jan,7.37,28
+Tamiraparani River,Ambasamudram,8.72959,77.46729,Feb,7.4,30
+Tamiraparani River,Ambasamudram,8.72959,77.46729,Mar,6.88,38
+Tamiraparani River,Ambasamudram,8.72959,77.46729,Apr,7.28,44
+Tamiraparani River,Ambasamudram,8.72959,77.46729,May,6.91,48
+Tamiraparani River,Ambasamudram,8.72959,77.46729,Jun,7.72,56
+Tamiraparani River,Ambasamudram,8.72959,77.46729,Jul,7.43,64
+Tamiraparani River,Ambasamudram,8.72959,77.46729,Aug,7.12,100
+Tamiraparani River,Ambasamudram,8.72959,77.46729,Sep,7.29,120
+Tamiraparani River,Ambasamudram,8.72959,77.46729,Oct,6.49,98
+Tamiraparani River,Ambasamudram,8.72959,77.46729,Nov,6.97,90
+Tamiraparani River,Ambasamudram,8.72959,77.46729,Dec,7.81,102
+Tamiraparani River,Ambasamudram,8.72959,77.46729,Avg,7.2,68.2
+Tamiraparani River,Authoor,8.62443,78.06881,Jan,7.16,300
+Tamiraparani River,Authoor,8.62443,78.06881,Feb,7.33,294
+Tamiraparani River,Authoor,8.62443,78.06881,Mar,7.94,308
+Tamiraparani River,Authoor,8.62443,78.06881,Apr,7.74,368
+Tamiraparani River,Authoor,8.62443,78.06881,May,7.49,486
+Tamiraparani River,Authoor,8.62443,78.06881,Jun,7.82,816
+Tamiraparani River,Authoor,8.62443,78.06881,Jul,7.45,960
+Tamiraparani River,Authoor,8.62443,78.06881,Aug,6.7,1332
+Tamiraparani River,Authoor,8.62443,78.06881,Sep,7.54,1160
+Tamiraparani River,Authoor,8.62443,78.06881,Oct,7.72,37
+Tamiraparani River,Authoor,8.62443,78.06881,Nov,7.62,410
+Tamiraparani River,Authoor,8.62443,78.06881,Dec,6.89,216
+Tamiraparani River,Authoor,8.62443,78.06881,Avg,7.5,557.3
+Tamiraparani River,Eral,8.62061,78.02284,Jan,7.34,218
+Tamiraparani River,Eral,8.62061,78.02284,Feb,7.4,246
+Tamiraparani River,Eral,8.62061,78.02284,Mar,7.92,264
+Tamiraparani River,Eral,8.62061,78.02284,Apr,7.55,438
+Tamiraparani River,Eral,8.62061,78.02284,May,7.26,362
+Tamiraparani River,Eral,8.62061,78.02284,Jun,7.46,428
+Tamiraparani River,Eral,8.62061,78.02284,Jul,7.28,432
+Tamiraparani River,Eral,8.62061,78.02284,Aug,7.5,532
+Tamiraparani River,Eral,8.62061,78.02284,Sep,7.66,517
+Tamiraparani River,Eral,8.62061,78.02284,Oct,7.21,168
+Tamiraparani River,Eral,8.62061,78.02284,Nov,7.08,156
+Tamiraparani River,Eral,8.62061,78.02284,Dec,6.98,192
+Tamiraparani River,Eral,8.62061,78.02284,Avg,7.4,329.4
+Tamiraparani River,Kallidai Kurichi,8.69375,77.46268,Jan,7.31,28
+Tamiraparani River,Kallidai Kurichi,8.69375,77.46268,Feb,7.52,36
+Tamiraparani River,Kallidai Kurichi,8.69375,77.46268,Mar,6.82,40
+Tamiraparani River,Kallidai Kurichi,8.69375,77.46268,Apr,7.24,48
+Tamiraparani River,Kallidai Kurichi,8.69375,77.46268,May,7.9,82
+Tamiraparani River,Kallidai Kurichi,8.69375,77.46268,Jun,7.66,54
+Tamiraparani River,Kallidai Kurichi,8.69375,77.46268,Jul,7.67,68
+Tamiraparani River,Kallidai Kurichi,8.69375,77.46268,Aug,7.12,100
+Tamiraparani River,Kallidai Kurichi,8.69375,77.46268,Sep,6.77,116
+Tamiraparani River,Kallidai Kurichi,8.69375,77.46268,Oct,6.38,100
+Tamiraparani River,Kallidai Kurichi,8.69375,77.46268,Nov,6.76,102
+Tamiraparani River,Kallidai Kurichi,8.69375,77.46268,Dec,7.53,110
+Tamiraparani River,Kallidai Kurichi,8.69375,77.46268,Avg,7.2,73.7
+Tamiraparani River,Srivaikundam,8.62736,77.909,Jan,7.65,156
+Tamiraparani River,Srivaikundam,8.62736,77.909,Feb,7.61,164
+Tamiraparani River,Srivaikundam,8.62736,77.909,Mar,7.89,156
+Tamiraparani River,Srivaikundam,8.62736,77.909,Apr,7.79,252
+Tamiraparani River,Srivaikundam,8.62736,77.909,May,7.21,228
+Tamiraparani River,Srivaikundam,8.62736,77.909,Jun,7.35,212
+Tamiraparani River,Srivaikundam,8.62736,77.909,Jul,7.27,186
+Tamiraparani River,Srivaikundam,8.62736,77.909,Aug,6.8,134
+Tamiraparani River,Srivaikundam,8.62736,77.909,Sep,7.04,81.9
+Tamiraparani River,Srivaikundam,8.62736,77.909,Oct,7.25,52
+Tamiraparani River,Srivaikundam,8.62736,77.909,Nov,7.19,80
+Tamiraparani River,Srivaikundam,8.62736,77.909,Dec,7.04,170
+Tamiraparani River,Srivaikundam,8.62736,77.909,Avg,7.3,156
+Tamiraparani River,Vellakovil,8.71802,77.70353,Jan,7.09,90
+Tamiraparani River,Vellakovil,8.71802,77.70353,Feb,7.5,128
+Tamiraparani River,Vellakovil,8.71802,77.70353,Mar,6.95,102
+Tamiraparani River,Vellakovil,8.71802,77.70353,Apr,7.15,132
+Tamiraparani River,Vellakovil,8.71802,77.70353,May,7.04,248
+Tamiraparani River,Vellakovil,8.71802,77.70353,Jun,7.39,86
+Tamiraparani River,Vellakovil,8.71802,77.70353,Jul,7.33,106
+Tamiraparani River,Vellakovil,8.71802,77.70353,Aug,7.21,110
+Tamiraparani River,Vellakovil,8.71802,77.70353,Sep,6.52,94
+Tamiraparani River,Vellakovil,8.71802,77.70353,Oct,6.71,224
+Tamiraparani River,Vellakovil,8.71802,77.70353,Nov,6.86,180
+Tamiraparani River,Vellakovil,8.71802,77.70353,Dec,7.92,198
+Tamiraparani River,Vellakovil,8.71802,77.70353,Avg,7.1,141.5
+Tamiraparani River,Sivalaperi,8.70003,77.69087,Jan,7.06,124
+Tamiraparani River,Sivalaperi,8.70003,77.69087,Feb,7.52,122
+Tamiraparani River,Sivalaperi,8.70003,77.69087,Mar,6.84,98
+Tamiraparani River,Sivalaperi,8.70003,77.69087,Apr,7.53,164
+Tamiraparani River,Sivalaperi,8.70003,77.69087,May,6.7,318
+Tamiraparani River,Sivalaperi,8.70003,77.69087,Jun,6.73,106
+Tamiraparani River,Sivalaperi,8.70003,77.69087,Jul,6.72,96
+Tamiraparani River,Sivalaperi,8.70003,77.69087,Aug,7.21,120
+Tamiraparani River,Sivalaperi,8.70003,77.69087,Sep,6.23,86
+Tamiraparani River,Sivalaperi,8.70003,77.69087,Oct,6.74,296
+Tamiraparani River,Sivalaperi,8.70003,77.69087,Nov,6.68,336
+Tamiraparani River,Sivalaperi,8.70003,77.69087,Dec,7.79,452
+Tamiraparani River,Sivalaperi,8.70003,77.69087,Avg,7,193.2
+Palar River,Palar-River,12.67923,78.59542,Jan,8.2,670
+Palar River,Palar-River,12.67923,78.59542,Feb,No Flow,No Flow
+Palar River,Palar-River,12.67923,78.59542,Mar,No Flow,No Flow
+Palar River,Palar-River,12.67923,78.59542,Apr,No Flow,No Flow
+Palar River,Palar-River,12.67923,78.59542,May,No Flow,No Flow
+Palar River,Palar-River,12.67923,78.59542,Jun,No Flow,No Flow
+Palar River,Palar-River,12.67923,78.59542,Jul,No Flow,No Flow
+Palar River,Palar-River,12.67923,78.59542,Aug,No Flow,No Flow
+Palar River,Palar-River,12.67923,78.59542,Sep,No Flow,No Flow
+Palar River,Palar-River,12.67923,78.59542,Oct,No Flow,No Flow
+Palar River,Palar-River,12.67923,78.59542,Nov,No Flow,No Flow
+Palar River,Palar-River,12.67923,78.59542,Dec,No Flow,No Flow
+Palar River,Palar-River,12.67923,78.59542,Avg,8.2,670
+Ooty Lake,Udhagamandalam,11.40062,76.69045,Jan,7.15,188
+Ooty Lake,Udhagamandalam,11.40062,76.69045,Feb,7.19,224
+Ooty Lake,Udhagamandalam,11.40062,76.69045,Mar,7.38,220
+Ooty Lake,Udhagamandalam,11.40062,76.69045,Apr,7.86,432
+Ooty Lake,Udhagamandalam,11.40062,76.69045,May,6.91,220
+Ooty Lake,Udhagamandalam,11.40062,76.69045,Jun,7.64,204
+Ooty Lake,Udhagamandalam,11.40062,76.69045,Jul,7.78,256
+Ooty Lake,Udhagamandalam,11.40062,76.69045,Aug,7.37,236
+Ooty Lake,Udhagamandalam,11.40062,76.69045,Sep,7.3,194
+Ooty Lake,Udhagamandalam,11.40062,76.69045,Oct,7.31,304
+Ooty Lake,Udhagamandalam,11.40062,76.69045,Nov,6.64,272
+Ooty Lake,Udhagamandalam,11.40062,76.69045,Dec,7.1,284
+Ooty Lake,Udhagamandalam,11.40062,76.69045,Avg,7.3,252.8
+Kodaikanal Lake,Kodaikanal- Lake,10.23362,77.48565,Jan,6.64,74
+Kodaikanal Lake,Kodaikanal- Lake,10.23362,77.48565,Feb,6.66,92
+Kodaikanal Lake,Kodaikanal- Lake,10.23362,77.48565,Mar,6.68,88
+Kodaikanal Lake,Kodaikanal- Lake,10.23362,77.48565,Apr,6.9,68
+Kodaikanal Lake,Kodaikanal- Lake,10.23362,77.48565,May,7.64,58
+Kodaikanal Lake,Kodaikanal- Lake,10.23362,77.48565,Jun,7,80
+Kodaikanal Lake,Kodaikanal- Lake,10.23362,77.48565,Jul,6.38,74
+Kodaikanal Lake,Kodaikanal- Lake,10.23362,77.48565,Aug,6.22,74
+Kodaikanal Lake,Kodaikanal- Lake,10.23362,77.48565,Sep,6.9,78
+Kodaikanal Lake,Kodaikanal- Lake,10.23362,77.48565,Oct,6.3,76
+Kodaikanal Lake,Kodaikanal- Lake,10.23362,77.48565,Nov,7.18,76
+Kodaikanal Lake,Kodaikanal- Lake,10.23362,77.48565,Dec,6.84,74
+Kodaikanal Lake,Kodaikanal- Lake,10.23362,77.48565,Avg,6.8,76
+Yercaud Lake,Yercaud- Lake,11.78364,78.21115,Jan,7.16,156
+Yercaud Lake,Yercaud- Lake,11.78364,78.21115,Feb,8.21,160
+Yercaud Lake,Yercaud- Lake,11.78364,78.21115,Mar,7.67,176
+Yercaud Lake,Yercaud- Lake,11.78364,78.21115,Apr,7.92,236
+Yercaud Lake,Yercaud- Lake,11.78364,78.21115,May,7.65,244
+Yercaud Lake,Yercaud- Lake,11.78364,78.21115,Jun,7.96,236
+Yercaud Lake,Yercaud- Lake,11.78364,78.21115,Jul,7.52,252
+Yercaud Lake,Yercaud- Lake,11.78364,78.21115,Aug,7.14,45.2
+Yercaud Lake,Yercaud- Lake,11.78364,78.21115,Sep,8.25,524
+Yercaud Lake,Yercaud- Lake,11.78364,78.21115,Oct,8.14,381
+Yercaud Lake,Yercaud- Lake,11.78364,78.21115,Nov,7.59,308
+Yercaud Lake,Yercaud- Lake,11.78364,78.21115,Dec,No Flow,No Flow
+Yercaud Lake,Yercaud- Lake,11.78364,78.21115,Avg,7.7,247.1
+Veeranam Lake,Veeranam- Lake,11.34111,79.52306,Jan,8.41,496
+Veeranam Lake,Veeranam- Lake,11.34111,79.52306,Feb,8.16,584
+Veeranam Lake,Veeranam- Lake,11.34111,79.52306,Mar,8.35,912
+Veeranam Lake,Veeranam- Lake,11.34111,79.52306,Apr,8.61,388
+Veeranam Lake,Veeranam- Lake,11.34111,79.52306,May,8.45,428
+Veeranam Lake,Veeranam- Lake,11.34111,79.52306,Jun,8.94,484
+Veeranam Lake,Veeranam- Lake,11.34111,79.52306,Jul,7.54,520
+Veeranam Lake,Veeranam- Lake,11.34111,79.52306,Aug,8.24,428
+Veeranam Lake,Veeranam- Lake,11.34111,79.52306,Sep,No Flow,No Flow
+Veeranam Lake,Veeranam- Lake,11.34111,79.52306,Oct,8.39,346
+Veeranam Lake,Veeranam- Lake,11.34111,79.52306,Nov,8.32,740
+Veeranam Lake,Veeranam- Lake,11.34111,79.52306,Dec,8.4,410
+Veeranam Lake,Veeranam- Lake,11.34111,79.52306,Avg,8.3,521.5
+Poondi Lake,Poondi- Lake,13.16973,79.88824,Jan,7.17,478
+Poondi Lake,Poondi- Lake,13.16973,79.88824,Feb,7.2,606
+Poondi Lake,Poondi- Lake,13.16973,79.88824,Mar,7.83,560
+Poondi Lake,Poondi- Lake,13.16973,79.88824,Apr,7.76,580
+Poondi Lake,Poondi- Lake,13.16973,79.88824,May,7.75,658
+Poondi Lake,Poondi- Lake,13.16973,79.88824,Jun,7.8,496
+Poondi Lake,Poondi- Lake,13.16973,79.88824,Jul,8.13,506
+Poondi Lake,Poondi- Lake,13.16973,79.88824,Aug,7.81,656
+Poondi Lake,Poondi- Lake,13.16973,79.88824,Sep,8.08,384
+Poondi Lake,Poondi- Lake,13.16973,79.88824,Oct,8.03,412
+Poondi Lake,Poondi- Lake,13.16973,79.88824,Nov,8.23,564
+Poondi Lake,Poondi- Lake,13.16973,79.88824,Dec,6.85,358
+Poondi Lake,Poondi- Lake,13.16973,79.88824,Avg,7.7,521.5
+Red Hills Lake,Red Hills- Lake,13.19309,80.17287,Jan,7.08,362
+Red Hills Lake,Red Hills- Lake,13.19309,80.17287,Feb,7.18,378
+Red Hills Lake,Red Hills- Lake,13.19309,80.17287,Mar,7.68,362
+Red Hills Lake,Red Hills- Lake,13.19309,80.17287,Apr,7.64,360
+Red Hills Lake,Red Hills- Lake,13.19309,80.17287,May,7.61,448
+Red Hills Lake,Red Hills- Lake,13.19309,80.17287,Jun,7.1,396
+Red Hills Lake,Red Hills- Lake,13.19309,80.17287,Jul,7.75,412
+Red Hills Lake,Red Hills- Lake,13.19309,80.17287,Aug,7.05,420
+Red Hills Lake,Red Hills- Lake,13.19309,80.17287,Sep,8.62,442
+Red Hills Lake,Red Hills- Lake,13.19309,80.17287,Oct,8.26,438
+Red Hills Lake,Red Hills- Lake,13.19309,80.17287,Nov,7.94,568
+Red Hills Lake,Red Hills- Lake,13.19309,80.17287,Dec,7.32,342
+Red Hills Lake,Red Hills- Lake,13.19309,80.17287,Avg,7.6,410.7
+Porur Lake,Porur- Lake,13.03395,80.14834,Jan,7.74,782
+Porur Lake,Porur- Lake,13.03395,80.14834,Feb,7.12,700
+Porur Lake,Porur- Lake,13.03395,80.14834,Mar,7.68,762
+Porur Lake,Porur- Lake,13.03395,80.14834,Apr,7.86,742
+Porur Lake,Porur- Lake,13.03395,80.14834,May,7.51,868
+Porur Lake,Porur- Lake,13.03395,80.14834,Jun,7.87,794
+Porur Lake,Porur- Lake,13.03395,80.14834,Jul,8.15,838
+Porur Lake,Porur- Lake,13.03395,80.14834,Aug,8.23,936
+Porur Lake,Porur- Lake,13.03395,80.14834,Sep,9.14,768
+Porur Lake,Porur- Lake,13.03395,80.14834,Oct,8.68,782
+Porur Lake,Porur- Lake,13.03395,80.14834,Nov,8.34,712
+Porur Lake,Porur- Lake,13.03395,80.14834,Dec,8.15,468
+Porur Lake,Porur- Lake,13.03395,80.14834,Avg,8,762.7
+Pulicat Lake,Pulicat- Lake,13.42702,80.29268,Jan,7.18,10828
+Pulicat Lake,Pulicat- Lake,13.42702,80.29268,Feb,7.13,21280
+Pulicat Lake,Pulicat- Lake,13.42702,80.29268,Mar,7.82,21726
+Pulicat Lake,Pulicat- Lake,13.42702,80.29268,Apr,7.81,30488
+Pulicat Lake,Pulicat- Lake,13.42702,80.29268,May,7.85,29856
+Pulicat Lake,Pulicat- Lake,13.42702,80.29268,Jun,7.7,32428
+Pulicat Lake,Pulicat- Lake,13.42702,80.29268,Jul,7.45,32432
+Pulicat Lake,Pulicat- Lake,13.42702,80.29268,Aug,7.28,33804
+Pulicat Lake,Pulicat- Lake,13.42702,80.29268,Sep,8.32,31248
+Pulicat Lake,Pulicat- Lake,13.42702,80.29268,Oct,8.51,33708
+Pulicat Lake,Pulicat- Lake,13.42702,80.29268,Nov,8.92,27124
+Pulicat Lake,Pulicat- Lake,13.42702,80.29268,Dec,8.89,1212
+Pulicat Lake,Pulicat- Lake,13.42702,80.29268,Avg,7.9,25511.5
