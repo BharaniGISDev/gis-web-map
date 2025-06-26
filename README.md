@@ -9,7 +9,7 @@ An interactive web map that visualizes groundwater quality (pH and TDS values) a
 - 📍 **Popups** showing station name, river, pH, and TDS
 - 🔽 **Dropdown filters** for:
   - River Name
-  - Month (or "All Months" to view a bar chart)
+  - Month
 - 🗺️ **Base Map Layers** using OpenStreetMap
 - 🧭 Developed using **HTML, CSS, JavaScript and GeoPandas**
 
